@@ -1,0 +1,27 @@
+.left{
+	background-color:red;
+	position: fixed;
+	width: 50%;
+	height: 100%;
+	top: 0;
+	left: 0;
+
+}
+
+.right{
+	background-color:aliceblue;
+	position: fixed;
+	width: 50%;
+	height: 100%;
+	top: 0;
+	right: 0;
+
+}
+
+a{
+
+}
+
+a.button{
+
+}

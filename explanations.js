@@ -33,7 +33,6 @@ var fullName = function (firstname, secondname) {
 
 }
 
-if (true) {
-	//do something
-	alert (male)
-}
+if ('male' == 'male') {
+	alert ('male');
+};
